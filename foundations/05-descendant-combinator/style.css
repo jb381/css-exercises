@@ -1,0 +1,13 @@
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    position: center;
+}
+
+
+/* Other possible combinators
+div .text
+.container .text
+.container p
+*/
